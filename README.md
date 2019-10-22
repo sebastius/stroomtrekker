@@ -3,6 +3,8 @@ Kloon van Pwuts' MeterTrekker.
 
 Boards have *just* been ordered, so make these at your own risk.
 
+![Stroomtrekker PCB layout](stroomtrekker.png)
+
 ## BOM
 ### Semiconductors
 * 1x Wemos D1 mini or ESP32 D1 mini
