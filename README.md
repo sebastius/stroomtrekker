@@ -1,5 +1,5 @@
 # stroomtrekker
-Clone of Pwuts' MeterTrekker. Stroomtrekker/MeterTrekker is a tiny circuit to read the status of your power consumption meter via the P1 port. Both our versions should be able to power an ESP8266/32 via the P1 port, so no extra cables required! You can then use the microcontroller to publish the acquired data over MQTT or any other protocol, should you choose to write software for it ;)
+Clone of Pwuts' MeterTrekker project (https://gitlab.com/Pwuts/dsmr2mqtt). Stroomtrekker/MeterTrekker is a tiny circuit to read the status of your power consumption meter via the P1 port. Both our versions should be able to power an ESP8266/32 via the P1 port, so no extra cables required! You can then use the microcontroller to publish the acquired data over MQTT or any other protocol, should you choose to write software for it ;)
 
 Boards have *just* been ordered, so make these at your own risk.
 
